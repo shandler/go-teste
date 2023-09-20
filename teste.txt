@@ -1,3 +1,7 @@
-"TESTE DE IGNORE" 
-'git init' 
-'gh repo create go-teste --public --source=. --remote=upstream --push' 
+TESTE DE IGNORE
+
+git init
+git add .
+git commit -m "Commit de inicialização do repositorio"
+
+gh repo create go-teste --public --source=. --remote=upstream --push
