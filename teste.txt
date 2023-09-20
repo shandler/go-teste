@@ -1,0 +1,3 @@
+"TESTE DE IGNORE" 
+'git init' 
+'gh repo create go-teste --public --source=. --remote=upstream --push' 
